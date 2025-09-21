@@ -40,7 +40,6 @@ Ejemplo de `cadenas.txt`:
 2+3*4
 2+3-4
 2+3*(4-5)
-(2+1)*3+5
 ```
 
 ---
@@ -55,7 +54,7 @@ python programa.py gra.txt cadenas.txt
 
 ---
 
-## ✅ Ejemplo de salida
+## Ejemplo de salida
 
 ### Entrada:
 ```
